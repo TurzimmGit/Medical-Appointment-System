@@ -140,8 +140,9 @@ gcc src/main.c src/Modelo.c src/ListaEncadeada.c -Iinclude -o sistema.exe
 
 ## 👤 Author
 
-* **Turzimm** — *Information Systems Student at UFMT* 📎 [GitHub Profile](https://github.com/TurzimmGit) | [LinkedIn](https://linkedin.com/in/artur-ferreira-sales-26a927370/)
-If this project helped you or inspired you in some way, consider giving it a ⭐!
+* **Turzimm** — *Information Systems Student at UFMT*  
+* 📎[GitHub Profile](https://github.com/TurzimmGit) | [LinkedIn](https://linkedin.com/in/artur-ferreira-sales-26a927370/)  
+* *If this project helped you or inspired you in some way, consider giving it a ⭐!*
 
 ---
 
