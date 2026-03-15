@@ -13,16 +13,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-E92063?style=flat-square&logo=opensourceinitiative&logoColor=white"/>
-  <img src="https://img.shields.io/badge/For-UFMT_Academic_Training-E92063?style=flat-square&logo=gitbook&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🛠_Status-Completed-E92063?style=flat-square"/>
+  <img src="https://img.shields.io/badge/License-MIT-09baba?style=flat-square&logo=opensourceinitiative&logoColor=white"/>
+  <img src="https://img.shields.io/badge/For-UFMT_Academic_Training-09baba?style=flat-square&logo=gitbook&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🛠_Status-Completed-09baba?style=flat-square"/>
 </p>
 
 <p align="center"><em>Built with:</em></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Language-C-E92063?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Paradigm-Modular_Programming-E92063?style=flat-square&logo=code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Editor-VS_Code-E92063?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Language-C-09baba?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Paradigm-Modular_Programming-09baba?style=flat-square&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Editor-VS_Code-09baba?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
