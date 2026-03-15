@@ -152,10 +152,10 @@ gcc src/main.c src/Modelo.c src/ListaEncadeada.c -Iinclude -o sistema.exe
 
 This project is licensed under the **MIT License**.
 
-For full details, see the [LICENSE](https://www.google.com/search?q=LICENSE) file.
+For full details, see the [LICENSE](https://github.com/TurzimmGit/Medical-Appointment-System/blob/main/LICENSE) file.
 
 <p align="left">
 <a href="#top">
-<img src="https://img.shields.io/badge/Back_to_Top_⭱-E92063?style=flat&logoColor=white" />
+<img src="https://img.shields.io/badge/Back_to_Top_⭱-09baba?style=flat&logoColor=white" />
 </a>
 </p>
